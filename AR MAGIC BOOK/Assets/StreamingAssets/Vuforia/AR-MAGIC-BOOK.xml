@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Wolf_BG" size="5.000000 2.811127" />
+    <ImageTarget name="Whale_BG" size="5.000000 3.750000" />
+    <ImageTarget name="Space_BG" size="5.000000 3.125000" />
+    <ImageTarget name="Dragon_BG" size="5.000000 2.812500" />
+    <ImageTarget name="Dino_BG" size="5.000000 3.330729" />
+    <ImageTarget name="Cat_BG" size="5.000000 3.125000" />
+    <ImageTarget name="Carp_BG" size="5.000000 3.346667" />
+    <ImageTarget name="Butterfly_BG" size="5.000000 3.272997" />
+  </Tracking>
+</QCARConfig>

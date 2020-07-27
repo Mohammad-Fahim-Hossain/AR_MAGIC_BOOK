@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: c5717d66a63433d46be8ab0996cd7452
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ctrl_Main
+    100002: hipsGroup
+    100004: jnt_l_leg
+    100006: jnt_l_leg1
+    100008: jnt_l_leg2
+    100010: jnt_l_leg3
+    100012: jnt_l_leg4
+    100014: jnt_l_leg5
+    100016: jnt_l_leg6
+    100018: jnt_l_leg7
+    100020: jnt_l_leg8
+    100022: jnt_r_reg
+    100024: jnt_r_reg1
+    100026: jnt_r_reg2
+    100028: jnt_r_reg3
+    100030: jnt_r_reg4
+    100032: jnt_r_reg5
+    100034: jnt_r_reg6
+    100036: jnt_r_reg7
+    100038: jnt_r_reg8
+    100040: jnt_shadow
+    100042: joint1
+    100044: joint13
+    100046: joint13 1
+    100048: joint17
+    100050: joint17 1
+    100052: joint3
+    100054: joint3 1
+    100056: joint33
+    100058: joint34
+    100060: joint35
+    100062: joint36
+    100064: joint37
+    100066: joint38
+    100068: joint42
+    100070: joint42 1
+    100072: joint43
+    100074: joint43 1
+    100076: joint44
+    100078: joint44 1
+    100080: joint5
+    100082: joint5 1
+    100084: joint55
+    100086: joint7
+    100088: joint7 1
+    100090: joint9
+    100092: joint9 1
+    100094: //RootNode
+    100096: Mamalien_LOD0
+    100098: Mamalien_LOD1
+    100100: Mamalien_LOD2
+    100102: Mamalien_Root
+    100104: transform1
+    400000: Ctrl_Main
+    400002: hipsGroup
+    400004: jnt_l_leg
+    400006: jnt_l_leg1
+    400008: jnt_l_leg2
+    400010: jnt_l_leg3
+    400012: jnt_l_leg4
+    400014: jnt_l_leg5
+    400016: jnt_l_leg6
+    400018: jnt_l_leg7
+    400020: jnt_l_leg8
+    400022: jnt_r_reg
+    400024: jnt_r_reg1
+    400026: jnt_r_reg2
+    400028: jnt_r_reg3
+    400030: jnt_r_reg4
+    400032: jnt_r_reg5
+    400034: jnt_r_reg6
+    400036: jnt_r_reg7
+    400038: jnt_r_reg8
+    400040: jnt_shadow
+    400042: joint1
+    400044: joint13
+    400046: joint13 1
+    400048: joint17
+    400050: joint17 1
+    400052: joint3
+    400054: joint3 1
+    400056: joint33
+    400058: joint34
+    400060: joint35
+    400062: joint36
+    400064: joint37
+    400066: joint38
+    400068: joint42
+    400070: joint42 1
+    400072: joint43
+    400074: joint43 1
+    400076: joint44
+    400078: joint44 1
+    400080: joint5
+    400082: joint5 1
+    400084: joint55
+    400086: joint7
+    400088: joint7 1
+    400090: joint9
+    400092: joint9 1
+    400094: //RootNode
+    400096: Mamalien_LOD0
+    400098: Mamalien_LOD1
+    400100: Mamalien_LOD2
+    400102: Mamalien_Root
+    400104: transform1
+    4300000: Mamalien_LOD0
+    4300002: Mamalien_LOD1
+    4300004: Mamalien_LOD2
+    7400000: Idle
+    7400002: Walk
+    7400004: Puke
+    7400006: Death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mamalien_LOD0
+    13700002: Mamalien_LOD1
+    13700004: Mamalien_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mamalien_skin
+    second: {fileID: 2100000, guid: 6204e644954a3a24c97e69733150b10a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Puke
+      takeName: Take 001
+      firstFrame: 74
+      lastFrame: 121
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 214
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Mamalien_Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

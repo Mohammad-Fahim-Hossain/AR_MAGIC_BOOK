@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 7d0e85e4ded5c4a40ab9f5e3bfbc43a3
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ciccio_lGun_Ctrl
+    100002: Ciccio_lGun_EmitterJ
+    100004: Ciccio_LOD0
+    100006: Ciccio_LOD1
+    100008: Ciccio_LOD2
+    100010: //RootNode
+    100012: Ciccio_rGun_Ctrl
+    100014: Ciccio_rGun_EmitterJ
+    100016: Ciccio_Root
+    100018: Ciccio_SH_HeadJ
+    100020: Ciccio_SH_HeadTipJ
+    100022: Ciccio_SH_lAnkleJ
+    100024: Ciccio_SH_lBallJ
+    100026: Ciccio_SH_lClavicleJ
+    100028: Ciccio_SH_lElbowJ
+    100030: Ciccio_SH_lFinger1J1
+    100032: Ciccio_SH_lFinger1J2
+    100034: Ciccio_SH_lFinger1J3
+    100036: Ciccio_SH_lFinger1JTip
+    100038: Ciccio_SH_lFinger2J1
+    100040: Ciccio_SH_lFinger2J2
+    100042: Ciccio_SH_lFinger2J3
+    100044: Ciccio_SH_lFinger2JTip
+    100046: Ciccio_SH_lFinger3J1
+    100048: Ciccio_SH_lFinger3J2
+    100050: Ciccio_SH_lFinger3J3
+    100052: Ciccio_SH_lFinger3JTip
+    100054: Ciccio_SH_lForearmJ
+    100056: Ciccio_SH_lHipJ
+    100058: Ciccio_SH_lKneeJ
+    100060: Ciccio_SH_lPalmJ
+    100062: Ciccio_SH_lShoulderJ
+    100064: Ciccio_SH_lThumbJ1
+    100066: Ciccio_SH_lThumbJ2
+    100068: Ciccio_SH_lThumbJ3
+    100070: Ciccio_SH_lThumbJTip
+    100072: Ciccio_SH_lToeJ
+    100074: Ciccio_SH_lWristJ
+    100076: Ciccio_SH_Neck01J
+    100078: Ciccio_SH_rAnkleJ
+    100080: Ciccio_SH_rBallJ
+    100082: Ciccio_SH_rClavicleJ
+    100084: Ciccio_SH_rElbowJ
+    100086: Ciccio_SH_rFinger1J1
+    100088: Ciccio_SH_rFinger1J2
+    100090: Ciccio_SH_rFinger1J3
+    100092: Ciccio_SH_rFinger1JTip
+    100094: Ciccio_SH_rFinger2J1
+    100096: Ciccio_SH_rFinger2J2
+    100098: Ciccio_SH_rFinger2J3
+    100100: Ciccio_SH_rFinger2JTip
+    100102: Ciccio_SH_rFinger3J1
+    100104: Ciccio_SH_rFinger3J2
+    100106: Ciccio_SH_rFinger3J3
+    100108: Ciccio_SH_rFinger3JTip
+    100110: Ciccio_SH_rForearmJ
+    100112: Ciccio_SH_rHipJ
+    100114: Ciccio_SH_rKneeJ
+    100116: Ciccio_SH_ROOTJ
+    100118: Ciccio_SH_rPalmJ
+    100120: Ciccio_SH_rShoulderJ
+    100122: Ciccio_SH_rThumbJ1
+    100124: Ciccio_SH_rThumbJ2
+    100126: Ciccio_SH_rThumbJ3
+    100128: Ciccio_SH_rThumbJTip
+    100130: Ciccio_SH_rToeJ
+    100132: Ciccio_SH_rWristJ
+    100134: Ciccio_SH_Spine01J
+    100136: Ciccio_SH_Spine02J
+    100138: Ciccio_SH_Spine03J
+    100140: Ciccio_SH_SpineTopJ
+    400000: Ciccio_lGun_Ctrl
+    400002: Ciccio_lGun_EmitterJ
+    400004: Ciccio_LOD0
+    400006: Ciccio_LOD1
+    400008: Ciccio_LOD2
+    400010: //RootNode
+    400012: Ciccio_rGun_Ctrl
+    400014: Ciccio_rGun_EmitterJ
+    400016: Ciccio_Root
+    400018: Ciccio_SH_HeadJ
+    400020: Ciccio_SH_HeadTipJ
+    400022: Ciccio_SH_lAnkleJ
+    400024: Ciccio_SH_lBallJ
+    400026: Ciccio_SH_lClavicleJ
+    400028: Ciccio_SH_lElbowJ
+    400030: Ciccio_SH_lFinger1J1
+    400032: Ciccio_SH_lFinger1J2
+    400034: Ciccio_SH_lFinger1J3
+    400036: Ciccio_SH_lFinger1JTip
+    400038: Ciccio_SH_lFinger2J1
+    400040: Ciccio_SH_lFinger2J2
+    400042: Ciccio_SH_lFinger2J3
+    400044: Ciccio_SH_lFinger2JTip
+    400046: Ciccio_SH_lFinger3J1
+    400048: Ciccio_SH_lFinger3J2
+    400050: Ciccio_SH_lFinger3J3
+    400052: Ciccio_SH_lFinger3JTip
+    400054: Ciccio_SH_lForearmJ
+    400056: Ciccio_SH_lHipJ
+    400058: Ciccio_SH_lKneeJ
+    400060: Ciccio_SH_lPalmJ
+    400062: Ciccio_SH_lShoulderJ
+    400064: Ciccio_SH_lThumbJ1
+    400066: Ciccio_SH_lThumbJ2
+    400068: Ciccio_SH_lThumbJ3
+    400070: Ciccio_SH_lThumbJTip
+    400072: Ciccio_SH_lToeJ
+    400074: Ciccio_SH_lWristJ
+    400076: Ciccio_SH_Neck01J
+    400078: Ciccio_SH_rAnkleJ
+    400080: Ciccio_SH_rBallJ
+    400082: Ciccio_SH_rClavicleJ
+    400084: Ciccio_SH_rElbowJ
+    400086: Ciccio_SH_rFinger1J1
+    400088: Ciccio_SH_rFinger1J2
+    400090: Ciccio_SH_rFinger1J3
+    400092: Ciccio_SH_rFinger1JTip
+    400094: Ciccio_SH_rFinger2J1
+    400096: Ciccio_SH_rFinger2J2
+    400098: Ciccio_SH_rFinger2J3
+    400100: Ciccio_SH_rFinger2JTip
+    400102: Ciccio_SH_rFinger3J1
+    400104: Ciccio_SH_rFinger3J2
+    400106: Ciccio_SH_rFinger3J3
+    400108: Ciccio_SH_rFinger3JTip
+    400110: Ciccio_SH_rForearmJ
+    400112: Ciccio_SH_rHipJ
+    400114: Ciccio_SH_rKneeJ
+    400116: Ciccio_SH_ROOTJ
+    400118: Ciccio_SH_rPalmJ
+    400120: Ciccio_SH_rShoulderJ
+    400122: Ciccio_SH_rThumbJ1
+    400124: Ciccio_SH_rThumbJ2
+    400126: Ciccio_SH_rThumbJ3
+    400128: Ciccio_SH_rThumbJTip
+    400130: Ciccio_SH_rToeJ
+    400132: Ciccio_SH_rWristJ
+    400134: Ciccio_SH_Spine01J
+    400136: Ciccio_SH_Spine02J
+    400138: Ciccio_SH_Spine03J
+    400140: Ciccio_SH_SpineTopJ
+    4300000: Ciccio_LOD0
+    4300002: Ciccio_LOD1
+    4300004: Ciccio_LOD2
+    7400000: Walk
+    7400002: Run
+    7400004: Idle
+    7400006: YesSir
+    7400008: ShootStart
+    7400010: Shoot
+    7400012: ShootEnd
+    7400014: Death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ciccio_LOD0
+    13700002: Ciccio_LOD1
+    13700004: Ciccio_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ciccio_Armor_LOD
+    second: {fileID: 2100000, guid: f7f6790e5b6d8cf42b5de5e75391a9ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Space_Marines_Glass
+    second: {fileID: 2100000, guid: b7ea44a54a548cb459f36550c92cc22c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 73
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YesSir
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 212
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootStart
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 255
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 255
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootEnd
+      takeName: Take 001
+      firstFrame: 319
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 397
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

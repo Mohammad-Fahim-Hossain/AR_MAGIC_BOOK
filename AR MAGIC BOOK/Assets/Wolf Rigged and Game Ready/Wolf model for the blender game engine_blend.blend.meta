@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 1bb8d02ca2330de4eaa289650ac49e5f
+timeCreated: 1527015208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aug_L
+    100002: aug_lied_O_L
+    100004: aug_lied_O_R
+    100006: aug_lied_U_L
+    100008: aug_lied_U_R
+    100010: Aug_R
+    100012: Augen_con
+    100014: Bauch
+    100016: Bauch_001
+    100018: Bauch_003
+    100020: Becken
+    100022: Becken_002
+    100024: Braun_O_L
+    100026: Braun_O_R
+    100028: Brust
+    100030: Brust_001
+    100032: Cube
+    100034: Cube_001
+    100036: Cube_002
+    100038: Cube_003
+    100040: Cube_004
+    100042: Empty
+    100044: Hals
+    100046: Hals_fett
+    100048: IK_Aug_L
+    100050: IK_Aug_R
+    100052: Kopf
+    100054: Kopf_002
+    100056: Maul_roll
+    100058: Mauloben
+    100060: Maulunten
+    100062: MundW_L
+    100064: MundW_R
+    100066: Oberarm_L
+    100068: Oberarm_R
+    100070: Oberschenkel_L
+    100072: Oberschenkel_R
+    100074: Ohr_L
+    100076: Ohr_R
+    100078: Pfote1_L
+    100080: Pfote1_R
+    100082: Pfote2_L
+    100084: Pfote2_L_001
+    100086: Pfote2_L_002
+    100088: Pfote2_R
+    100090: Pfote2_R_001
+    100092: Pfote2_R_002
+    100094: Plane
+    100096: root
+    100098: Schalterplatte_L
+    100100: Schalterplatte_R
+    100102: Schwanz
+    100104: Schwanz_001
+    100106: Schwanz_002
+    100108: Schwanz_003
+    100110: Unterarm_L
+    100112: Unterarm_R
+    100114: Unterkiefer
+    100116: Unterschenkel_L
+    100118: Unterschenkel_R
+    100120: Vorderpfote_L
+    100122: Vorderpfote_L_001
+    100124: Vorderpfote_L_002
+    100126: Vorderpfote_R
+    100128: Vorderpfote_R_001
+    100130: Vorderpfote_R_002
+    100132: //RootNode
+    100134: Wolf_Skeleton
+    400000: aug_L
+    400002: aug_lied_O_L
+    400004: aug_lied_O_R
+    400006: aug_lied_U_L
+    400008: aug_lied_U_R
+    400010: Aug_R
+    400012: Augen_con
+    400014: Bauch
+    400016: Bauch_001
+    400018: Bauch_003
+    400020: Becken
+    400022: Becken_002
+    400024: Braun_O_L
+    400026: Braun_O_R
+    400028: Brust
+    400030: Brust_001
+    400032: Cube
+    400034: Cube_001
+    400036: Cube_002
+    400038: Cube_003
+    400040: Cube_004
+    400042: Empty
+    400044: Hals
+    400046: Hals_fett
+    400048: IK_Aug_L
+    400050: IK_Aug_R
+    400052: Kopf
+    400054: Kopf_002
+    400056: Maul_roll
+    400058: Mauloben
+    400060: Maulunten
+    400062: MundW_L
+    400064: MundW_R
+    400066: Oberarm_L
+    400068: Oberarm_R
+    400070: Oberschenkel_L
+    400072: Oberschenkel_R
+    400074: Ohr_L
+    400076: Ohr_R
+    400078: Pfote1_L
+    400080: Pfote1_R
+    400082: Pfote2_L
+    400084: Pfote2_L_001
+    400086: Pfote2_L_002
+    400088: Pfote2_R
+    400090: Pfote2_R_001
+    400092: Pfote2_R_002
+    400094: Plane
+    400096: root
+    400098: Schalterplatte_L
+    400100: Schalterplatte_R
+    400102: Schwanz
+    400104: Schwanz_001
+    400106: Schwanz_002
+    400108: Schwanz_003
+    400110: Unterarm_L
+    400112: Unterarm_R
+    400114: Unterkiefer
+    400116: Unterschenkel_L
+    400118: Unterschenkel_R
+    400120: Vorderpfote_L
+    400122: Vorderpfote_L_001
+    400124: Vorderpfote_L_002
+    400126: Vorderpfote_R
+    400128: Vorderpfote_R_001
+    400130: Vorderpfote_R_002
+    400132: //RootNode
+    400134: Wolf_Skeleton
+    2100000: Wolf_Claws
+    2100002: eyes
+    2100004: Wolf_Fur
+    2100006: Teeth__nor2_tga
+    2100008: Wolf_Body__wolf_col_tga
+    2100010: Material_007
+    2300000: Plane
+    3300000: Plane
+    4300000: Cube_004
+    4300002: Cube_003
+    4300004: Cube_002
+    4300006: Cube_001
+    4300008: Cube
+    4300010: Plane
+    7400000: Default Take
+    7400002: creep
+    7400004: Wolf_00
+    7400006: Wolf_creep_cycle
+    7400008: Wolf_gesicht
+    7400010: Wolf_Maul_roll
+    7400012: wolf_run_cycle
+    7400014: Wolf_site
+    7400016: Wolf_walk_cycle
+    7400018: Wolf_wartepose
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+    13700004: Cube_002
+    13700006: Cube_003
+    13700008: Cube_004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
